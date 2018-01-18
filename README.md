@@ -1,4 +1,6 @@
 # Random Anime Wallpaper
+[![GitHub license](https://img.shields.io/github/license/varishtsg/randomanimewallpaper.svg)](https://github.com/varishtsg/randomanimewallpaper/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/varishtsg/randomanimewallpaper.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fvarishtsg%2Frandomanimewallpaper)
 
 This is code that works behind the [RandomAnimeWallpaper website][RAW link].  
 It is a site which provides random anime wallpapers (some NSFWish) from the collection of Anime Wallpapers from this [Google Drive folder][drive folder] and its sub directories.
@@ -36,7 +38,7 @@ Thus reducing the time penalty to a few seconds and maximum of 1 minute. And thu
 You may remove the mailer completely and this should work fine and still give you a rss feed on the announcements page.  
 This image from flickr can be converted to RSS and/or be posted to reddit etc.
 
-#### Hope this guide helps you. If you have any queries or suggestions, feel free to message me on [Twitter][twitter link].
+**Hope this guide helps you. If you have any queries or suggestions, feel free to message me on [Twitter][twitter link].**
 
 [RAW link]: https://sites.google.com/site/randomwallpapergenerator/home
 [drive folder]: https://drive.google.com/drive/folders/0B7tDwmzUKv8HOWlLYUt0U1UtN3M
